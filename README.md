@@ -1,53 +1,68 @@
-# Data Warehouse and Analytics Project
+# SQL Data Analytics Projects
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+A collection of SQL scripts demonstrating data exploration and advanced data analysis using relational databases.  
+This repository focuses on understanding datasets and answering real business questions using SQL.
 
----
-
-## 🚀 Project Requirements
-
-### Building the Data Warehouse (Data Engineering)
-
-#### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-
-#### Specifications
-
-- **Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data Quality:** Cleanse and resolve data quality issues prior to analysis.
-- **Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope:** Focus on the latest dataset only; historization of data is not required.
-- **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+The goal of this project is to practice and demonstrate important SQL skills used by Data Analysts.
 
 ---
 
-## 📊 BI: Analytics & Reporting (Data Analytics)
+## 📊 Project Structure
 
-### Objective
-Develop SQL-based analytics to deliver detailed insights into:
+This repository includes two main types of SQL analysis projects:
 
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
+### 1️⃣ Exploratory Data Analysis (EDA)
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+**Purpose:** Understand and explore the dataset.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and share this project with proper attribution.
+Key tasks performed:
+- Basic SQL queries
+- Data profiling
+- Checking NULL values and duplicates
+- Simple aggregations (`COUNT`, `SUM`, `AVG`)
+- Subqueries
+- Exploring data patterns and structures
 
 ---
 
-## 🌟 About Me
+### 2️⃣ Advanced Data Analytics
 
-Hi there! I'm **Hemanth** 👋
+**Purpose:** Answer business questions using SQL.
 
-I'm a **Data Analyst enthusiast** passionate about working with data and transforming raw data into meaningful insights. I enjoy building projects using **SQL, Excel, and Power BI** to analyze business problems and create data-driven solutions.
+Key tasks performed:
+- Complex SQL queries
+- Window functions (`ROW_NUMBER`, `RANK`, `LAG`)
+- Common Table Expressions (CTE)
+- Subqueries
+- Business reporting queries
+- Analytical insights from data
 
-I'm currently focused on improving my skills in **data analysis, data visualization, and business intelligence**, while building real-world projects to strengthen my practical knowledge.
+---
 
-I enjoy continuously learning new tools and techniques in the data analytics field and sharing my work here on GitHub.
+## 🛠️ Skills Demonstrated
+
+- SQL Data Exploration  
+- Data Aggregation  
+- Subqueries  
+- Joins  
+- Window Functions  
+- CTE (Common Table Expressions)  
+- Business Data Analysis  
+
+---
+
+## 🎯 Goal of This Repository
+
+The purpose of this project is to strengthen practical SQL skills commonly used in **Data Analyst roles**, including:
+
+- Exploring datasets  
+- Extracting insights  
+- Answering business questions with SQL  
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Hemanth**, a Data Analyst enthusiast passionate about working with data and turning raw information into meaningful insights.
+
+I enjoy building projects using **SQL, Excel, and Power BI** to analyze data and solve business problems.
